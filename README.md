@@ -1,6 +1,6 @@
 ## Quantitative Models
 
-This repository contains a collection of financial models and stochastic processes and some of their implementations in the area of quantitative finance
+This repository contains a collection of financial models and stochastic processes and some implementations in the area of quantitative finance
 
 ## Contents
 
