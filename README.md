@@ -4,6 +4,6 @@ This repository contains a collection of financial models and stochastic process
 
 ## Contents
 
-#### [1 - Data Retrieval](quantitative-models/data)
+#### [1 - Data Retrieval](./GetData.py)
 #### [2 - Stochastic Processes](quantitative-models/stochastics)
 #### [3- Financial Models](quantitative-models/models)
